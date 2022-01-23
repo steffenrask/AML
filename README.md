@@ -1,0 +1,3 @@
+# AML
+
+Anvendt maskinlæring eksamen
